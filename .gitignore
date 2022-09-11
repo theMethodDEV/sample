@@ -1,1 +1,2 @@
-# Exclude JS File
+# Exclude css File
+/style.css
